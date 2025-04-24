@@ -1,2 +1,0 @@
-C:/Users/felip/ci-alura-course/android/app/.cxx/Debug/293y5zs3/x86/CMakeFiles/edit_cache.dir
-C:/Users/felip/ci-alura-course/android/app/.cxx/Debug/293y5zs3/x86/CMakeFiles/rebuild_cache.dir
