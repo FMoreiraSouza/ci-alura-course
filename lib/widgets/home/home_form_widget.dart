@@ -89,15 +89,14 @@ class _HomeFormWidgetState extends State<HomeFormWidget> {
                         arguments: state,
                       );
                     },
-                    prefixIcon:
-                        SvgPicture.asset(ImageConstants.playCircleOutline),
+                    prefixIcon: SvgPicture.asset(ImageConstants.playCircleOutline),
                   ),
                 ),
               Image.asset(
                 ImageConstants.shoppingBags,
                 height: 140,
               ),
-              const SizedBox(height: 20),
+              const SizedBox(height: 80),
             ],
           ),
         ),
